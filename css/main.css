@@ -1,0 +1,19 @@
+.navbar {
+
+    box-shadow: 2px 2px 5px black; opacity: .7;
+
+    
+}
+
+.navbar .nav-item .nav-link {
+
+    color: blanchedalmond
+}
+
+.main-header {
+
+    background-image: url(../img/background.jpg);
+
+
+
+}
